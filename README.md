@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kakaran&show_icons=true&locale=en" alt="kakaran" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakaran&" alt="kakaran" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kakaran&theme=flag-india" alt="kakaran" /></p>
