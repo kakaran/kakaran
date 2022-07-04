@@ -1,7 +1,7 @@
-[![MasterHead](https://www.digitalsolutionservices.com/web-development.html)](https://kakaran.io)
+[![MasterHead](https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://kakaran.io)
 <h1 align="center">Hi 👋, I'm Karan Kapoor</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://globaledu.net.in/front-end-development">
+<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakaran&label=Profile%20views&color=0e75b6&style=flat" alt="kakaran" /> </p>
 
